@@ -15,7 +15,7 @@
   <!--<img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <!--<img align="center" alt="Fab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <!--<img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="right" alt="Fab-pic" width="130" src="(https://raw.githubusercontent.com/Fabricio-Willans-97/Fabricio-Willans-97/main/pac_ghost_pic.jpg">
+  <img align="right" alt="Fab-pic" width="150"height style="border-radius:100px;" src="https://raw.githubusercontent.com/Fabricio-Willans-97/Fabricio-Willans-97/main/pac_ghost_pic.jpg">
 </div>
   
   ##
