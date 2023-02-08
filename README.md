@@ -1,4 +1,12 @@
 ## Ola, eu sou a Fabricio Willans, amante de Tecnologia e Desenvolvimento Front End.
+
+Atualmente estudando programação e tecnologias pois é uma área que amo e que esta crescendo cada vez mais e que esta presente em todas as áreas, inserindo diversas pessoas.
+Formado em Analises e Desenvolvimento de Sistemas, onde estudo gradualmente com foco em programação web visando aperfeiçoar minhas técnicas para total aprofundamento na área.
+
+Possuo conhecimentos em: Desenvolvimento Front-end, HTML, CSS, Bootstrap, JavaScript, React (Atualmente Estudando), GitHub e versionamento de código com GIT.
+
+Conhecimentos secundários: Suporte em TI, Hardware, Software, Redes, Atendimento a usuários, Abertura, encerramento, monitoramento de chamados e Ativos.
+
 🔭 Atualmente trabalhando como Analista de Suporte em TI <br>
 🌱 Atualmente estudando React <br>
 👯 Procuro migrar para a area de desenvolvimento Font-end ou numa área diferente da atual
