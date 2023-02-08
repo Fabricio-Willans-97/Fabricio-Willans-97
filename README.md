@@ -1,7 +1,7 @@
 ## Ola, eu sou a Fabricio Willans, amante de Tecnologia e Desenvolvimento Front End.
 🔭 Atualmente trabalhando como Analista de Suporte em TI <br>
-🌱 Atualmente estudando JavaScript <br>
-👯 Procuro migrar para a area de desenvolvimento Font-end
+🌱 Atualmente estudando React <br>
+👯 Procuro migrar para a area de desenvolvimento Font-end ou numa área diferente da atual
 <div align="center">
   <a href="https://github.com/Fabricio-Willans-97">
   <img height="160" src="https://github-readme-stats-liart-iota-81.vercel.app/api?username=fabricio-willans-97&count_private=true&show_icons=true&theme=tokyonight"/>
