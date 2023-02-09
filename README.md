@@ -16,14 +16,14 @@ Conhecimentos secundários: Suporte em TI, Hardware, Software, Redes, Atendiment
   <img height="160" src="https://github-readme-stats-liart-iota-81.vercel.app/api/top-langs/?username=fabricio-willans-97&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fab-Botp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--<img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!--<img align="center" alt="Fab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!--<img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="right" alt="Fab-pic" width="150"height src="https://raw.githubusercontent.com/Fabricio-Willans-97/Fabricio-Willans-97/main/pac_ghost_pic.jpg">
+  <img align="center" alt="Fab-HTML5" height="30" width="40" src="https://github.com/Fabricio-Willans-97/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fab-CSS3" height="30" width="40" src="https://github.com/Fabricio-Willans-97/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fab-Bootstrap" height="30" width="40" src="https://github.com/Fabricio-Willans-97/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Fab-Js" height="30" width="40" src="https://github.com/Fabricio-Willans-97/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Fab-Git" height="30" width="40" src="https://github.com/Fabricio-Willans-97/devicon/blob/master/icons/git/git-original.svg">
+  <!--<img align="center" alt="Fab-React" height="30" width="40" src="https://github.com/Fabricio-Willans-97/devicons/devicon/master/icons/react/react-original.svg">
+  <!--<img align="center" alt="Fab-Python" height="30" width="40" src="github.com/Fabricio-Willans-97/devicons/devicon/master/icons/python/python-original.svg">-->
+  <img align="right" alt="Fab-pic" width="150" src="https://github.com/Fabricio-Willans-97/Fabricio-Willans-97/blob/main/pac_ghost_pic.jpg">
 </div>
   
   ##
