@@ -12,8 +12,8 @@ Conhecimentos secundários: Suporte em TI, Hardware, Software, Redes, Atendiment
 👯 Procuro migrar para a area de desenvolvimento Font-end ou numa área diferente da atual
 <div align="center">
   <a href="https://github.com/Fabricio-Willans-97">
-  <img height="160" src="https://github-readme-stats-1z5nbg7gg-fabricio-willans-97.vercel.app//api?username=fabricio-willans-97&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats-1z5nbg7gg-fabricio-willans-97.vercel.app/api/top-langs/?username=fabricio-willans-97&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats-liart-iota-81.vercel.app/api?username=fabricio-willans-97&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats-liart-iota-81.vercel.app/api/top-langs/?username=fabricio-willans-97&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fab-HTML5" height="30" width="40" src="https://github.com/Fabricio-Willans-97/devicon/blob/master/icons/html5/html5-original.svg">
